@@ -6,11 +6,18 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Paul CERCEAU/Git/GGJ24_HungryFishy/HungryFishy/Content/Maps/NominativeTestsMaps/LV_TestsPaul.umap",
+				"D:/Paul CERCEAU/Git/GGJ24_HungryFishy/HungryFishy/Content/Materials/Placeholders/MI_Basic_LightBlue.uasset",
+				"D:/Paul CERCEAU/Git/GGJ24_HungryFishy/HungryFishy/Content/Materials/Placeholders/M_Basic.uasset",
+				"D:/Paul CERCEAU/Git/GGJ24_HungryFishy/HungryFishy/Content/Blueprints/Fishy/BP_Fish.uasset",
+				"D:/Paul CERCEAU/Git/GGJ24_HungryFishy/HungryFishy/Content/Blueprints/Fishy/Curve_Propulsion_Float.uasset",
+				"D:/Paul CERCEAU/Git/GGJ24_HungryFishy/HungryFishy/Content/Blueprints/Fishy/Curve_TailImpulse_Float.uasset",
+				"D:/Paul CERCEAU/Git/GGJ24_HungryFishy/HungryFishy/Content/Setup/GM_HungryFishy.uasset",
+				"D:/Paul CERCEAU/Git/GGJ24_HungryFishy/HungryFishy/Content/Setup/PC_HungryFishy.uasset",
+				"D:/Paul CERCEAU/Git/GGJ24_HungryFishy/HungryFishy/Content/Setup/BP_Camera.uasset",
+				"D:/Paul CERCEAU/Git/GGJ24_HungryFishy/HungryFishy/Content/Blueprints/Fishy/BP_Fish_2.uasset",
 				"D:/Paul CERCEAU/Git/GGJ24_HungryFishy/HungryFishy/Content/Materials/M_Basic.uasset",
 				"D:/Paul CERCEAU/Git/GGJ24_HungryFishy/HungryFishy/Content/Materials/MI_Basic.uasset",
 				"D:/Paul CERCEAU/Git/GGJ24_HungryFishy/HungryFishy/Content/Materials/MI_Basic_LightBlue.uasset",
-				"D:/Paul CERCEAU/Git/GGJ24_HungryFishy/HungryFishy/Content/Materials/Placeholders/MI_Basic_LightBlue.uasset",
-				"D:/Paul CERCEAU/Git/GGJ24_HungryFishy/HungryFishy/Content/Materials/Placeholders/M_Basic.uasset",
 				"D:/Paul CERCEAU/Git/HungryFishy/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
 			]
 		}
