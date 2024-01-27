@@ -7186,3 +7186,1567 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2024.01.27-13.04.31:916][516]LogViewport: Scene viewport resized to 1526x926, mode Windowed.
 [2024.01.27-13.04.31:963][517]LogViewport: Scene viewport resized to 1526x913, mode Windowed.
 [2024.01.27-13.04.31:984][518]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2024.01.27-13.05.28:706][490]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Grass/M_Grass_Inst.M_Grass_Inst
+[2024.01.27-13.05.28:707][490]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.05.28:707][490]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.05.28:817][490]LogViewport: Scene viewport resized to 839x912, mode Windowed.
+[2024.01.27-13.05.28:891][491]LogViewport: Scene viewport resized to 839x902, mode Windowed.
+[2024.01.27-13.06.14:179][482]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.01.27-13.06.14:213][482]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3432
+[2024.01.27-13.06.14:549][483]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{26d42a1f-4877-43e0-80e9-ee017b5cd8e5}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=48.41
+[2024.01.27-13.06.14:549][483]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.27-13.06.14:550][483]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.27-13.09.12:090][ 16]LogDerivedDataCache: C:/Users/theo.segobia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.093 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6555 files in 8190 folders with total size 1005 MiB.
+[2024.01.27-13.32.58:144][294]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.01.27-13.32.58:144][294]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.01.27-13.59.25:732][ 56]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.01.27-14.09.12:093][814]LogDerivedDataCache: C:/Users/theo.segobia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.095 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6555 files in 8190 folders with total size 1005 MiB.
+[2024.01.27-14.37.40:196][718]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Realtek(R) Audio), InstanceID=1
+[2024.01.27-14.37.40:329][718]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3432
+[2024.01.27-14.37.40:664][719]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{de2c6c66-3789-4e05-8622-0437d5c645d9}, Name=Headphones (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=42.47
+[2024.01.27-14.37.40:664][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.27-14.37.40:666][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.27-14.38.31:887][550]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.38.31:887][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.38.31:907][550]LogViewport: Scene viewport resized to 1526x948, mode Windowed.
+[2024.01.27-14.38.31:939][551]LogViewport: Scene viewport resized to 1526x939, mode Windowed.
+[2024.01.27-14.38.31:970][552]LogViewport: Scene viewport resized to 1526x921, mode Windowed.
+[2024.01.27-14.38.32:007][553]LogViewport: Scene viewport resized to 1526x906, mode Windowed.
+[2024.01.27-14.38.32:091][554]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2024.01.27-14.38.38:291][985]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/LandscapeGrassType/M_landscape.M_landscape
+[2024.01.27-14.38.38:296][985]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-14.38.38:296][985]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-14.38.38:374][985]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.38.38:374][985]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.38.38:374][985]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.38.38:379][985]LogViewport: Scene viewport resized to 376x458, mode Windowed.
+[2024.01.27-14.38.38:421][986]LogViewport: Scene viewport resized to 376x451, mode Windowed.
+[2024.01.27-14.38.38:456][987]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: ================================================
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: Total job queries 4,938, among them cache hits 3,745 (75.84%)
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: Tracking 1,186 distinct input hashes that result in 575 distinct outputs (48.48%)
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: RAM used: 25.13 MiB of 1.60 GiB budget. Usage: 1.53%
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: Shaders Compiled: 1,168
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: Jobs assigned 1,171, completed 1,168 (99.74%)
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: Average time worker was idle: 64.34 s
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: Time job spent in pending queue: average 2.40 s, longest 14.20 s
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: Job execution time: average 1.24 s, max 6.98 s
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: Job life time (pending + execution): average 3.65 s, max 14.94
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 131.26 s
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: Jobs were issued in 1,013 batches (only local compilation was used), average 1.16 jobs/batch
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: Average processing rate: 8.90 jobs/sec
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: Total thread time: 572.501 s
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: Total thread preprocess time: 18.191 s
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: Percentage time preprocessing: 3.18%
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: Effective parallelization: 4.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   13 times, average 0.69 sec, max 1.40 sec, min 0.61 sec)
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   15 times, average 0.69 sec, max 1.26 sec, min 0.59 sec)
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled   13 times, average 0.68 sec, max 1.37 sec, min 0.58 sec)
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.16% of total time (compiled  122 times, average 0.57 sec, max 1.19 sec, min 0.43 sec)
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.29% of total time (compiled  122 times, average 0.53 sec, max 0.75 sec, min 0.41 sec)
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.78% of total time (compiled   58 times, average 0.57 sec, max 1.02 sec, min 0.30 sec)
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.76% of total time (compiled   57 times, average 0.48 sec, max 0.59 sec, min 0.32 sec)
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.54% of total time (compiled   40 times, average 0.65 sec, max 1.17 sec, min 0.50 sec)
+[2024.01.27-14.38.39:033][ 50]LogShaderCompilers: Display: ================================================
+[2024.01.27-14.38.39:192][ 69]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.38.39:192][ 69]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.38.39:193][ 69]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.38.39:193][ 69]MaterialEditorStats: Shader Count: 3
+[2024.01.27-14.38.39:243][ 75]MaterialEditorStats: Base pass shader: 218 instructions
+[2024.01.27-14.38.39:243][ 75]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.38.39:243][ 75]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.38.39:243][ 75]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.38.39:243][ 75]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.38.45:119][763]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.38.45:119][763]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.38.45:119][763]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.38.45:657][819]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.38.45:658][819]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.38.45:658][819]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.38.45:658][819]MaterialEditorStats: Shader Count: 3
+[2024.01.27-14.38.45:758][831]MaterialEditorStats: Base pass shader: 218 instructions
+[2024.01.27-14.38.45:759][831]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.38.45:759][831]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.38.45:759][831]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.38.45:759][831]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.38.46:503][919]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.38.46:503][919]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.38.46:503][919]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.38.46:539][921]MaterialEditorStats: Base pass shader: 218 instructions
+[2024.01.27-14.38.46:539][921]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.38.46:539][921]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.38.46:539][921]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.38.46:539][921]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.39.04:576][ 41]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.39.04:576][ 41]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.39.04:576][ 41]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.39.04:614][ 43]MaterialEditorStats: Base pass shader: 218 instructions
+[2024.01.27-14.39.04:614][ 43]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.39.04:615][ 43]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.39.04:615][ 43]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.39.04:615][ 43]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.39.05:927][193]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.39.05:927][193]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.39.05:927][193]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.39.05:970][195]MaterialEditorStats: Base pass shader: 218 instructions
+[2024.01.27-14.39.05:970][195]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.39.05:970][195]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.39.05:970][195]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.39.05:970][195]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.39.15:746][358]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.39.15:746][358]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.39.15:746][358]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.39.15:781][360]MaterialEditorStats: Base pass shader: 218 instructions
+[2024.01.27-14.39.15:781][360]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.39.15:781][360]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.39.15:781][360]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.39.15:781][360]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.39.17:876][602]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.39.17:876][602]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.39.17:876][602]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.39.17:922][604]MaterialEditorStats: Base pass shader: 218 instructions
+[2024.01.27-14.39.17:923][604]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.39.17:923][604]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.39.17:923][604]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.39.17:923][604]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.39.27:819][767]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.39.27:819][767]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.39.27:819][767]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.39.28:441][836]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.39.28:441][836]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.39.28:441][836]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.39.28:441][836]MaterialEditorStats: Shader Count: 3
+[2024.01.27-14.39.28:549][849]MaterialEditorStats: Base pass shader: 218 instructions
+[2024.01.27-14.39.28:549][849]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.39.28:549][849]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.39.28:549][849]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.39.28:549][849]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.39.29:410][951]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.39.29:410][951]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.39.29:410][951]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.39.29:454][953]MaterialEditorStats: Base pass shader: 218 instructions
+[2024.01.27-14.39.29:454][953]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.39.29:454][953]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.39.29:454][953]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.39.29:454][953]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.40.22:525][119]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.27-14.40.22:541][119]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.27-14.40.22:550][120]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.27-14.40.23:531][186]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2024.01.27-14.40.23:532][186]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.27-14.40.27:137][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.40.27:181][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Grass/M_Grass" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/Grass/M_Grass.uasset" SILENT=true
+[2024.01.27-14.40.27:190][473]LogSavePackage: Moving output files for package: /Game/Materials/Grass/M_Grass
+[2024.01.27-14.40.27:191][473]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_Grass3403C7BB458C9C441EFA438FA4323360.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/Grass/M_Grass.uasset'
+[2024.01.27-14.40.27:212][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Grass/M_Grass_Inst" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/Grass/M_Grass_Inst.uasset" SILENT=true
+[2024.01.27-14.40.27:214][473]LogSavePackage: Moving output files for package: /Game/Materials/Grass/M_Grass_Inst
+[2024.01.27-14.40.27:214][473]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_Grass_Inst7A42FC4F4EAB62AFE78BC6B2CFCBB359.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/Grass/M_Grass_Inst.uasset'
+[2024.01.27-14.40.27:215][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/NewFolder/sprite_0005" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0005.uasset" SILENT=true
+[2024.01.27-14.40.27:218][473]LogSavePackage: Moving output files for package: /Game/Textures/NewFolder/sprite_0005
+[2024.01.27-14.40.27:218][473]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_000524893F9C403B09DB27F6D3A9EB3E72A4.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0005.uasset'
+[2024.01.27-14.40.27:219][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/NewFolder/sprite_0006" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0006.uasset" SILENT=true
+[2024.01.27-14.40.27:223][473]LogSavePackage: Moving output files for package: /Game/Textures/NewFolder/sprite_0006
+[2024.01.27-14.40.27:223][473]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_00063AAE3FE5472953FCCF28D6BF8296E3EA.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0006.uasset'
+[2024.01.27-14.40.27:224][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/NewFolder/sprite_0007" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0007.uasset" SILENT=true
+[2024.01.27-14.40.27:228][473]LogSavePackage: Moving output files for package: /Game/Textures/NewFolder/sprite_0007
+[2024.01.27-14.40.27:228][473]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_00076249A6944D8313D3B8656C9FAE565DFA.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0007.uasset'
+[2024.01.27-14.40.27:229][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/NewFolder/sprite_0011" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0011.uasset" SILENT=true
+[2024.01.27-14.40.27:233][473]LogSavePackage: Moving output files for package: /Game/Textures/NewFolder/sprite_0011
+[2024.01.27-14.40.27:233][473]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_00110A8B88934E170AD79FE3E685B08AC411.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0011.uasset'
+[2024.01.27-14.40.27:235][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/NewFolder/sprite_0012" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0012.uasset" SILENT=true
+[2024.01.27-14.40.27:239][473]LogSavePackage: Moving output files for package: /Game/Textures/NewFolder/sprite_0012
+[2024.01.27-14.40.27:239][473]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_001236168AE1477032875B271292C3B34235.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0012.uasset'
+[2024.01.27-14.40.27:239][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/NewFolder/sprite_0013" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0013.uasset" SILENT=true
+[2024.01.27-14.40.27:243][473]LogSavePackage: Moving output files for package: /Game/Textures/NewFolder/sprite_0013
+[2024.01.27-14.40.27:243][473]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_00136E67247247B36519AA9C90904C1BDE09.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0013.uasset'
+[2024.01.27-14.40.27:244][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/NewFolder/sprite_0014" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0014.uasset" SILENT=true
+[2024.01.27-14.40.27:249][473]LogSavePackage: Moving output files for package: /Game/Textures/NewFolder/sprite_0014
+[2024.01.27-14.40.27:249][473]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_00149A046A314B55DFDA0274FBAE474C9C7E.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0014.uasset'
+[2024.01.27-14.40.27:250][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/NewFolder/sprite_0015" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0015.uasset" SILENT=true
+[2024.01.27-14.40.27:254][473]LogSavePackage: Moving output files for package: /Game/Textures/NewFolder/sprite_0015
+[2024.01.27-14.40.27:254][473]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_0015A3B70CB64A774C3F9017348A8ADADB8F.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0015.uasset'
+[2024.01.27-14.40.27:254][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/NewFolder/sprite_0016" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0016.uasset" SILENT=true
+[2024.01.27-14.40.27:258][473]LogSavePackage: Moving output files for package: /Game/Textures/NewFolder/sprite_0016
+[2024.01.27-14.40.27:258][473]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_00162B9B0F1648B73710F3CF27802C94ED96.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0016.uasset'
+[2024.01.27-14.40.27:259][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/NewFolder/sprite_0017" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0017.uasset" SILENT=true
+[2024.01.27-14.40.27:263][473]LogSavePackage: Moving output files for package: /Game/Textures/NewFolder/sprite_0017
+[2024.01.27-14.40.27:263][473]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_00174C8C7AD44D356A088541F08DBB2B8259.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0017.uasset'
+[2024.01.27-14.40.27:265][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/NewFolder/sprite_0018" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0018.uasset" SILENT=true
+[2024.01.27-14.40.27:283][473]LogSavePackage: Moving output files for package: /Game/Textures/NewFolder/sprite_0018
+[2024.01.27-14.40.27:283][473]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_001897AC1BD448CF704DCAA993966ECEE4D7.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0018.uasset'
+[2024.01.27-14.40.27:284][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/NewFolder/sprite_0023" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0023.uasset" SILENT=true
+[2024.01.27-14.40.27:287][473]LogSavePackage: Moving output files for package: /Game/Textures/NewFolder/sprite_0023
+[2024.01.27-14.40.27:287][473]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_002317F0FD64469B466674FF81A99B8BDAE3.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0023.uasset'
+[2024.01.27-14.40.27:288][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/NewFolder/sprite_0024" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0024.uasset" SILENT=true
+[2024.01.27-14.40.27:293][473]LogSavePackage: Moving output files for package: /Game/Textures/NewFolder/sprite_0024
+[2024.01.27-14.40.27:293][473]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_00240B0E5C054D9D10FFAA8068B5CC5123B1.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0024.uasset'
+[2024.01.27-14.40.27:293][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/NewFolder/sprite_0025" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0025.uasset" SILENT=true
+[2024.01.27-14.40.27:297][473]LogSavePackage: Moving output files for package: /Game/Textures/NewFolder/sprite_0025
+[2024.01.27-14.40.27:297][473]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_00256941E73142974E395D75C1BD791FBD67.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/NewFolder/sprite_0025.uasset'
+[2024.01.27-14.40.27:306][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 1:02 min)
+[2024.01.27-14.40.27:394][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.27-14.40.27:410][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.27-14.40.27:419][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.01.27-14.40.27:435][473]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.27-14.40.27:435][473]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/NewFolder/sprite_0023.sprite_0023
+[2024.01.27-14.40.27:435][473]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Grass/M_Grass.M_Grass
+[2024.01.27-14.40.27:435][473]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Grass/M_Grass_Inst.M_Grass_Inst
+[2024.01.27-14.40.27:435][473]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/NewFolder/sprite_0005.sprite_0005
+[2024.01.27-14.40.27:435][473]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/NewFolder/sprite_0006.sprite_0006
+[2024.01.27-14.40.27:435][473]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/NewFolder/sprite_0007.sprite_0007
+[2024.01.27-14.40.27:435][473]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/NewFolder/sprite_0011.sprite_0011
+[2024.01.27-14.40.27:435][473]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/NewFolder/sprite_0012.sprite_0012
+[2024.01.27-14.40.27:435][473]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/NewFolder/sprite_0013.sprite_0013
+[2024.01.27-14.40.27:435][473]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/NewFolder/sprite_0014.sprite_0014
+[2024.01.27-14.40.27:435][473]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/NewFolder/sprite_0015.sprite_0015
+[2024.01.27-14.40.27:436][473]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/NewFolder/sprite_0016.sprite_0016
+[2024.01.27-14.40.27:436][473]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/NewFolder/sprite_0017.sprite_0017
+[2024.01.27-14.40.27:436][473]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/NewFolder/sprite_0018.sprite_0018
+[2024.01.27-14.40.27:436][473]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/NewFolder/sprite_0024.sprite_0024
+[2024.01.27-14.40.27:436][473]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/NewFolder/sprite_0025.sprite_0025
+[2024.01.27-14.40.34:633][982]LogContentBrowser: Attempting asset rename: NewFolder -> Grass
+[2024.01.27-14.40.34:666][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.40.34:717][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Grass/M_Grass" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/Grass/M_Grass.uasset" SILENT=true
+[2024.01.27-14.40.34:727][982]LogSavePackage: Moving output files for package: /Game/Materials/Grass/M_Grass
+[2024.01.27-14.40.34:727][982]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_Grass27975326400808D186C10F8688A2BD63.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/Grass/M_Grass.uasset'
+[2024.01.27-14.40.34:728][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Grass/M_Grass_Inst" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/Grass/M_Grass_Inst.uasset" SILENT=true
+[2024.01.27-14.40.34:730][982]LogSavePackage: Moving output files for package: /Game/Materials/Grass/M_Grass_Inst
+[2024.01.27-14.40.34:730][982]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_Grass_Inst029225314294AEF28A0C7CA8247EFE51.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/Grass/M_Grass_Inst.uasset'
+[2024.01.27-14.40.34:730][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass/sprite_0023" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0023.uasset" SILENT=true
+[2024.01.27-14.40.34:734][982]LogSavePackage: Moving output files for package: /Game/Textures/Grass/sprite_0023
+[2024.01.27-14.40.34:734][982]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_00233FD3D3114A52A5E23B0133A2C5804A8C.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0023.uasset'
+[2024.01.27-14.40.34:735][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass/sprite_0005" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0005.uasset" SILENT=true
+[2024.01.27-14.40.34:738][982]LogSavePackage: Moving output files for package: /Game/Textures/Grass/sprite_0005
+[2024.01.27-14.40.34:738][982]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_0005596552FD450D4064683F5DBCD2322836.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0005.uasset'
+[2024.01.27-14.40.34:739][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass/sprite_0006" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0006.uasset" SILENT=true
+[2024.01.27-14.40.34:742][982]LogSavePackage: Moving output files for package: /Game/Textures/Grass/sprite_0006
+[2024.01.27-14.40.34:743][982]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_0006755329C140CF08348AB7DC9661E2CDBC.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0006.uasset'
+[2024.01.27-14.40.34:744][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass/sprite_0007" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0007.uasset" SILENT=true
+[2024.01.27-14.40.34:747][982]LogSavePackage: Moving output files for package: /Game/Textures/Grass/sprite_0007
+[2024.01.27-14.40.34:747][982]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_00071FCB213041554E5D79CF328622E5A8E6.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0007.uasset'
+[2024.01.27-14.40.34:748][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass/sprite_0011" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0011.uasset" SILENT=true
+[2024.01.27-14.40.34:752][982]LogSavePackage: Moving output files for package: /Game/Textures/Grass/sprite_0011
+[2024.01.27-14.40.34:752][982]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_0011F0D038EF46B00EEA10A79B9164F12502.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0011.uasset'
+[2024.01.27-14.40.34:753][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass/sprite_0012" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0012.uasset" SILENT=true
+[2024.01.27-14.40.34:757][982]LogSavePackage: Moving output files for package: /Game/Textures/Grass/sprite_0012
+[2024.01.27-14.40.34:757][982]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_00125BA7DE32410DD0C4129634ADD68FEDE1.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0012.uasset'
+[2024.01.27-14.40.34:758][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass/sprite_0013" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0013.uasset" SILENT=true
+[2024.01.27-14.40.34:761][982]LogSavePackage: Moving output files for package: /Game/Textures/Grass/sprite_0013
+[2024.01.27-14.40.34:761][982]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_0013F815A143461DED0ED0331088F4CF873F.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0013.uasset'
+[2024.01.27-14.40.34:762][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass/sprite_0014" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0014.uasset" SILENT=true
+[2024.01.27-14.40.34:767][982]LogSavePackage: Moving output files for package: /Game/Textures/Grass/sprite_0014
+[2024.01.27-14.40.34:767][982]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_00143A21F18047E7342FBD2A9BBB8F7CA6F8.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0014.uasset'
+[2024.01.27-14.40.34:767][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass/sprite_0015" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0015.uasset" SILENT=true
+[2024.01.27-14.40.34:770][982]LogSavePackage: Moving output files for package: /Game/Textures/Grass/sprite_0015
+[2024.01.27-14.40.34:770][982]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_00155FDEB37A44139A8E33B5AE92E567511B.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0015.uasset'
+[2024.01.27-14.40.34:771][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass/sprite_0016" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0016.uasset" SILENT=true
+[2024.01.27-14.40.34:776][982]LogSavePackage: Moving output files for package: /Game/Textures/Grass/sprite_0016
+[2024.01.27-14.40.34:776][982]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_001662A378454DB6EF0E6B527D8CE45940CE.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0016.uasset'
+[2024.01.27-14.40.34:777][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass/sprite_0017" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0017.uasset" SILENT=true
+[2024.01.27-14.40.34:781][982]LogSavePackage: Moving output files for package: /Game/Textures/Grass/sprite_0017
+[2024.01.27-14.40.34:781][982]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_0017069EBEEE4162DC504285A18DBFAE5CCF.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0017.uasset'
+[2024.01.27-14.40.34:782][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass/sprite_0018" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0018.uasset" SILENT=true
+[2024.01.27-14.40.34:786][982]LogSavePackage: Moving output files for package: /Game/Textures/Grass/sprite_0018
+[2024.01.27-14.40.34:786][982]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_0018875570AC418BA35CBA37D992E48FACCC.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0018.uasset'
+[2024.01.27-14.40.34:786][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass/sprite_0024" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0024.uasset" SILENT=true
+[2024.01.27-14.40.34:790][982]LogSavePackage: Moving output files for package: /Game/Textures/Grass/sprite_0024
+[2024.01.27-14.40.34:790][982]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_00240F7AD38C44ACF109ABA533AE72509D6E.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0024.uasset'
+[2024.01.27-14.40.34:791][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grass/sprite_0025" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0025.uasset" SILENT=true
+[2024.01.27-14.40.34:795][982]LogSavePackage: Moving output files for package: /Game/Textures/Grass/sprite_0025
+[2024.01.27-14.40.34:795][982]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/sprite_0025AF9EE40F4CB8FE42D7E25EA270B54FCA.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Textures/Grass/sprite_0025.uasset'
+[2024.01.27-14.40.34:801][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 1:02 min)
+[2024.01.27-14.40.34:881][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.27-14.40.34:891][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.01.27-14.40.34:899][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.01.27-14.40.34:953][982]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.27-14.40.34:953][982]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Grass/sprite_0023.sprite_0023
+[2024.01.27-14.40.34:953][982]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Grass/M_Grass.M_Grass
+[2024.01.27-14.40.34:953][982]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Grass/M_Grass_Inst.M_Grass_Inst
+[2024.01.27-14.40.34:953][982]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Grass/sprite_0005.sprite_0005
+[2024.01.27-14.40.34:953][982]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Grass/sprite_0006.sprite_0006
+[2024.01.27-14.40.34:953][982]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Grass/sprite_0007.sprite_0007
+[2024.01.27-14.40.34:953][982]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Grass/sprite_0011.sprite_0011
+[2024.01.27-14.40.34:953][982]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Grass/sprite_0012.sprite_0012
+[2024.01.27-14.40.34:953][982]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Grass/sprite_0013.sprite_0013
+[2024.01.27-14.40.34:953][982]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Grass/sprite_0014.sprite_0014
+[2024.01.27-14.40.34:953][982]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Grass/sprite_0015.sprite_0015
+[2024.01.27-14.40.34:953][982]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Grass/sprite_0016.sprite_0016
+[2024.01.27-14.40.34:953][982]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Grass/sprite_0017.sprite_0017
+[2024.01.27-14.40.34:953][982]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Grass/sprite_0018.sprite_0018
+[2024.01.27-14.40.34:953][982]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Grass/sprite_0024.sprite_0024
+[2024.01.27-14.40.34:953][982]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Grass/sprite_0025.sprite_0025
+[2024.01.27-14.43.06:556][179]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.27-14.43.06:572][179]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.27-14.43.06:580][180]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.27-14.43.11:406][501]LogContentBrowser: Attempting asset rename: NewFolder -> CelShading
+[2024.01.27-14.43.11:407][501]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.27-14.43.18:757][ 64]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.01.27-14.43.18:764][ 64]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.01.27-14.43.18:804][ 66]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.01.27-14.43.26:720][557]LogContentBrowser: Attempting asset rename: NewMaterial -> M_CelShading
+[2024.01.27-14.43.26:721][557]LogContentBrowser: End creating deferred item NewMaterial
+[2024.01.27-14.43.28:768][685]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/CelShading/M_CelShading.M_CelShading
+[2024.01.27-14.43.28:772][685]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-14.43.28:772][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-14.43.28:943][685]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.43.28:943][685]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.43.28:943][685]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.43.28:951][685]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.01.27-14.43.29:539][715]LogShaderCompilers: Display: ================================================
+[2024.01.27-14.43.29:539][715]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-14.43.29:539][715]LogShaderCompilers: Display: Total job queries 4,995, among them cache hits 3,786 (75.80%)
+[2024.01.27-14.43.29:539][715]LogShaderCompilers: Display: Tracking 1,202 distinct input hashes that result in 577 distinct outputs (48.00%)
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display: RAM used: 25.44 MiB of 1.60 GiB budget. Usage: 1.55%
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display: Shaders Compiled: 1,184
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display: Jobs assigned 1,187, completed 1,184 (99.75%)
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display: Average time worker was idle: 64.46 s
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display: Time job spent in pending queue: average 2.37 s, longest 14.20 s
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display: Job execution time: average 1.23 s, max 6.98 s
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display: Job life time (pending + execution): average 3.61 s, max 14.94
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 134.16 s
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display: Jobs were issued in 1,029 batches (only local compilation was used), average 1.15 jobs/batch
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display: Average processing rate: 8.83 jobs/sec
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display: Total thread time: 579.047 s
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display: Total thread preprocess time: 18.426 s
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display: Percentage time preprocessing: 3.18%
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display: Effective parallelization: 4.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   13 times, average 0.69 sec, max 1.40 sec, min 0.61 sec)
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   15 times, average 0.69 sec, max 1.26 sec, min 0.59 sec)
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled   13 times, average 0.68 sec, max 1.37 sec, min 0.58 sec)
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.38% of total time (compiled  126 times, average 0.57 sec, max 1.19 sec, min 0.43 sec)
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.47% of total time (compiled  126 times, average 0.53 sec, max 0.75 sec, min 0.41 sec)
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.71% of total time (compiled   58 times, average 0.57 sec, max 1.02 sec, min 0.30 sec)
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.70% of total time (compiled   57 times, average 0.48 sec, max 0.59 sec, min 0.32 sec)
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.49% of total time (compiled   40 times, average 0.65 sec, max 1.17 sec, min 0.50 sec)
+[2024.01.27-14.43.29:540][715]LogShaderCompilers: Display: ================================================
+[2024.01.27-14.43.29:639][719]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.43.29:639][719]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.43.29:639][719]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.43.29:639][719]MaterialEditorStats: Shader Count: 3
+[2024.01.27-14.43.29:750][723]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.01.27-14.43.29:750][723]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.43.29:750][723]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.43.29:750][723]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.43.29:750][723]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.43.38:282][130]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.43.38:283][130]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.43.38:283][130]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.43.38:962][165]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.43.38:962][165]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.43.38:962][165]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.43.38:962][165]MaterialEditorStats: Shader Count: 3
+[2024.01.27-14.43.39:059][170]MaterialEditorStats: Base pass shader without light map: 100 instructions
+[2024.01.27-14.43.39:059][170]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.43.39:059][170]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.43.39:059][170]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.43.39:059][170]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.43.41:035][319]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.43.41:035][319]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.43.41:035][319]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.43.41:110][322]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.01.27-14.43.41:110][322]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.43.41:110][322]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.43.41:110][322]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.43.41:110][322]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.43.57:908][302]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.43.57:908][302]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.43.57:908][302]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.43.57:992][305]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.01.27-14.43.57:992][305]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.43.57:992][305]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.43.57:992][305]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.43.57:992][305]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.44.06:771][245]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.44.06:771][245]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.06:771][245]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.44.06:860][248]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.01.27-14.44.06:860][248]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.44.06:860][248]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.44.06:860][248]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.06:860][248]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.44.12:369][360]LogViewport: Scene viewport resized to 375x460, mode Windowed.
+[2024.01.27-14.44.12:435][362]LogViewport: Scene viewport resized to 206x230, mode Windowed.
+[2024.01.27-14.44.12:453][363]LogViewport: Scene viewport resized to 151x157, mode Windowed.
+[2024.01.27-14.44.13:053][435]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.01.27-14.44.13:299][464]LogSlate: Window 'M_CelShading' being destroyed
+[2024.01.27-14.44.13:305][464]LogViewport: Scene viewport resized to 376x475, mode Windowed.
+[2024.01.27-14.44.13:330][465]LogViewport: Scene viewport resized to 376x470, mode Windowed.
+[2024.01.27-14.44.13:345][466]LogViewport: Scene viewport resized to 376x468, mode Windowed.
+[2024.01.27-14.44.13:357][467]LogViewport: Scene viewport resized to 376x465, mode Windowed.
+[2024.01.27-14.44.13:372][468]LogViewport: Scene viewport resized to 376x462, mode Windowed.
+[2024.01.27-14.44.13:386][469]LogViewport: Scene viewport resized to 376x460, mode Windowed.
+[2024.01.27-14.44.13:400][470]LogViewport: Scene viewport resized to 376x456, mode Windowed.
+[2024.01.27-14.44.13:415][471]LogViewport: Scene viewport resized to 376x454, mode Windowed.
+[2024.01.27-14.44.13:429][472]LogViewport: Scene viewport resized to 376x451, mode Windowed.
+[2024.01.27-14.44.13:444][473]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.01.27-14.44.14:357][575]LogMaterialEditor: Saving and Compiling material M_CelShading
+[2024.01.27-14.44.14:456][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.27-14.44.15:127][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.01.27-14.44.15:135][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.44.16:611][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/CelShading/M_CelShading" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_CelShading.uasset" SILENT=true
+[2024.01.27-14.44.16:613][575]LogSavePackage: Moving output files for package: /Game/Materials/CelShading/M_CelShading
+[2024.01.27-14.44.16:613][575]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_CelShading2093AE824D0ACC30A2EBF2B75906E332.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_CelShading.uasset'
+[2024.01.27-14.44.16:616][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.48 sec (total: 1:04 min)
+[2024.01.27-14.44.16:619][575]AssetCheck: New page: Asset Save: M_CelShading
+[2024.01.27-14.44.16:619][575]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/CelShading/M_CelShading.M_CelShading
+[2024.01.27-14.44.16:621][575]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.01.27-14.44.16:621][575]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.44.16:621][575]MaterialEditorStats: MaxSampler: 270 instructions
+[2024.01.27-14.44.16:621][575]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.27-14.44.16:621][575]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.16:621][575]MaterialEditorStats: Shader Count: 16
+[2024.01.27-14.44.20:803][819]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.44.20:803][819]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.20:803][819]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.44.20:840][821]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.01.27-14.44.20:840][821]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.44.20:840][821]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.44.20:840][821]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.20:840][821]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.44.22:641][ 26]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.44.22:641][ 26]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.22:641][ 26]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.44.22:662][ 28]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.01.27-14.44.22:662][ 28]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.44.22:662][ 28]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.44.22:662][ 28]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.22:662][ 28]MaterialEditorStats: Shader Count: 2
+[2024.01.27-14.44.23:433][111]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.44.23:433][111]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.23:433][111]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.44.23:464][113]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.01.27-14.44.23:464][113]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.44.23:464][113]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.44.23:464][113]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.23:464][113]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.44.25:174][311]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.44.25:174][311]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.25:174][311]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.44.25:781][383]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.44.25:781][383]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.44.25:781][383]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.25:781][383]MaterialEditorStats: Shader Count: 3
+[2024.01.27-14.44.25:881][395]MaterialEditorStats: Base pass shader: 226 instructions
+[2024.01.27-14.44.25:881][395]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.44.25:881][395]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.44.25:881][395]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.25:881][395]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.44.36:612][869]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.44.36:612][869]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.36:612][869]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.44.36:648][871]MaterialEditorStats: Base pass shader: 226 instructions
+[2024.01.27-14.44.36:648][871]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.44.36:648][871]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.44.36:649][871]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.36:649][871]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.44.38:633][103]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.44.38:633][103]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.38:633][103]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.44.38:656][105]MaterialEditorStats: Base pass shader: 226 instructions
+[2024.01.27-14.44.38:656][105]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.44.38:656][105]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.44.38:656][105]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.38:656][105]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.44.40:252][296]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.44.40:252][296]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.40:252][296]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.44.40:268][298]MaterialEditorStats: Base pass shader: 226 instructions
+[2024.01.27-14.44.40:268][298]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.44.40:268][298]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.44.40:268][298]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.40:268][298]MaterialEditorStats: Shader Count: 2
+[2024.01.27-14.44.41:607][449]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.44.41:607][449]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.41:607][449]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.44.42:548][546]MaterialEditorStats: Base pass shader: 219 instructions
+[2024.01.27-14.44.42:549][546]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.44.42:549][546]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.44.42:549][546]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.42:549][546]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.44.43:333][631]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.44.43:333][631]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.43:333][631]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.44.44:434][746]MaterialEditorStats: Base pass shader: 219 instructions
+[2024.01.27-14.44.44:434][746]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.44.44:434][746]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.44.44:434][746]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.44.44:434][746]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.45.07:574][587]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.45.07:574][587]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.07:574][587]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.45.07:598][589]MaterialEditorStats: Base pass shader: 219 instructions
+[2024.01.27-14.45.07:598][589]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.45.07:598][589]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.45.07:598][589]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.07:598][589]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.45.24:753][915]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.45.24:753][915]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.24:753][915]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.45.24:790][917]MaterialEditorStats: Base pass shader: 219 instructions
+[2024.01.27-14.45.24:790][917]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.45.24:790][917]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.45.24:790][917]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.24:790][917]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.45.31:946][772]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.45.31:946][772]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.31:946][772]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.45.31:963][774]MaterialEditorStats: Base pass shader: 219 instructions
+[2024.01.27-14.45.31:963][774]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.45.31:963][774]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.45.31:963][774]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.31:963][774]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.45.33:516][950]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.45.33:516][950]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.33:516][950]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.45.33:546][952]MaterialEditorStats: Base pass shader: 219 instructions
+[2024.01.27-14.45.33:546][952]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.45.33:546][952]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.45.33:546][952]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.33:546][952]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.45.34:615][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.45.34:615][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.34:615][ 71]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.45.34:647][ 73]MaterialEditorStats: Base pass shader: 219 instructions
+[2024.01.27-14.45.34:647][ 73]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.45.34:647][ 73]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.45.34:647][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.34:647][ 73]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.45.39:510][459]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.45.39:510][459]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.39:510][459]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.45.39:533][461]MaterialEditorStats: Base pass shader: 219 instructions
+[2024.01.27-14.45.39:533][461]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.45.39:534][461]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.45.39:534][461]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.39:534][461]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.45.40:667][587]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.45.40:667][587]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.40:667][587]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.45.40:693][589]MaterialEditorStats: Base pass shader: 219 instructions
+[2024.01.27-14.45.40:693][589]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.45.40:693][589]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.45.40:693][589]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.40:693][589]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.45.41:947][726]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.45.41:947][726]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.41:947][726]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.45.41:969][728]MaterialEditorStats: Base pass shader: 219 instructions
+[2024.01.27-14.45.41:969][728]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.45.41:969][728]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.45.41:969][728]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.41:969][728]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.45.47:264][356]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.45.47:264][356]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.47:264][356]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.45.47:294][358]MaterialEditorStats: Base pass shader: 219 instructions
+[2024.01.27-14.45.47:294][358]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.45.47:294][358]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.45.47:294][358]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.47:294][358]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.45.49:952][656]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.45.49:952][656]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.49:952][656]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.45.49:976][658]MaterialEditorStats: Base pass shader: 219 instructions
+[2024.01.27-14.45.49:976][658]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.45.49:976][658]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.45.49:976][658]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.49:976][658]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.45.50:503][720]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.45.50:503][720]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.50:503][720]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.45.50:526][722]MaterialEditorStats: Base pass shader: 219 instructions
+[2024.01.27-14.45.50:526][722]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.45.50:526][722]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.45.50:526][722]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.50:526][722]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.45.51:250][806]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-14.45.51:256][806]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.45.51:256][806]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.51:256][806]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.45.51:277][808]MaterialEditorStats: Base pass shader: 219 instructions
+[2024.01.27-14.45.51:277][808]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.45.51:277][808]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.45.51:277][808]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.51:277][808]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.45.53:114][999]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.45.53:114][999]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.53:114][999]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.45.53:147][  1]MaterialEditorStats: Base pass shader: 219 instructions
+[2024.01.27-14.45.53:147][  1]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.45.53:147][  1]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.45.53:147][  1]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.53:147][  1]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.45.54:675][175]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.45.54:675][175]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.54:675][175]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.45.55:302][250]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.45.55:303][250]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.45.55:303][250]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.55:303][250]MaterialEditorStats: Shader Count: 1
+[2024.01.27-14.45.55:339][254]MaterialEditorStats: Base pass shader: 221 instructions
+[2024.01.27-14.45.55:339][254]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.45.55:339][254]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.45.55:339][254]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.55:339][254]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.45.58:499][630]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.45.58:499][630]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.58:499][630]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.45.58:515][632]MaterialEditorStats: Base pass shader: 221 instructions
+[2024.01.27-14.45.58:515][632]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.45.58:515][632]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.45.58:515][632]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.58:515][632]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.45.59:636][766]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.45.59:636][766]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.59:636][766]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.45.59:650][768]MaterialEditorStats: Base pass shader: 221 instructions
+[2024.01.27-14.45.59:650][768]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.45.59:650][768]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.45.59:650][768]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.45.59:650][768]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.46.08:760][224]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.46.08:760][224]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.46.08:760][224]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.46.09:334][292]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.46.09:334][292]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.46.09:335][292]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.46.09:335][292]MaterialEditorStats: Shader Count: 3
+[2024.01.27-14.46.09:435][304]MaterialEditorStats: Base pass shader: 220 instructions
+[2024.01.27-14.46.09:435][304]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.46.09:435][304]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.46.09:435][304]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.46.09:435][304]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.46.10:913][468]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.46.10:913][468]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.46.10:913][468]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.46.11:510][537]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.46.11:510][537]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.46.11:510][537]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.46.11:510][537]MaterialEditorStats: Shader Count: 3
+[2024.01.27-14.46.11:610][549]MaterialEditorStats: Base pass shader: 220 instructions
+[2024.01.27-14.46.11:610][549]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.46.11:610][549]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.46.11:610][549]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.46.11:610][549]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.47.07:503][598]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.47.07:503][598]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.07:503][598]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: ================================================
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: Total job queries 5,239, among them cache hits 3,982 (76.01%)
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: Tracking 1,253 distinct input hashes that result in 590 distinct outputs (47.09%)
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: RAM used: 26.48 MiB of 1.60 GiB budget. Usage: 1.62%
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: Shaders Compiled: 1,235
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: Jobs assigned 1,235, completed 1,235 (100.00%)
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: Average time worker was idle: 88.08 s
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: Time job spent in pending queue: average 2.28 s, longest 14.20 s
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: Job execution time: average 1.21 s, max 6.98 s
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: Job life time (pending + execution): average 3.49 s, max 14.94
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 142.15 s
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: Jobs were issued in 1,077 batches (only local compilation was used), average 1.15 jobs/batch
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: Average processing rate: 8.69 jobs/sec
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: Total thread time: 601.235 s
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: Total thread preprocess time: 19.257 s
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: Percentage time preprocessing: 3.20%
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: Effective parallelization: 4.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   13 times, average 0.69 sec, max 1.40 sec, min 0.61 sec)
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   16 times, average 0.68 sec, max 1.26 sec, min 0.59 sec)
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled   13 times, average 0.68 sec, max 1.37 sec, min 0.58 sec)
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.83% of total time (compiled  137 times, average 0.56 sec, max 1.19 sec, min 0.43 sec)
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.86% of total time (compiled  137 times, average 0.52 sec, max 0.75 sec, min 0.41 sec)
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.55% of total time (compiled   59 times, average 0.57 sec, max 1.02 sec, min 0.30 sec)
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.58% of total time (compiled   58 times, average 0.48 sec, max 0.59 sec, min 0.32 sec)
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.41% of total time (compiled   41 times, average 0.65 sec, max 1.17 sec, min 0.49 sec)
+[2024.01.27-14.47.07:523][599]LogShaderCompilers: Display: ================================================
+[2024.01.27-14.47.07:532][600]MaterialEditorStats: Base pass shader: 220 instructions
+[2024.01.27-14.47.07:532][600]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.47.07:532][600]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.47.07:532][600]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.07:532][600]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.47.10:872][983]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.47.10:872][983]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.10:872][983]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.47.10:896][985]MaterialEditorStats: Base pass shader: 220 instructions
+[2024.01.27-14.47.10:896][985]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.47.10:896][985]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.47.10:896][985]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.10:896][985]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.47.13:512][288]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.47.13:512][288]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.13:512][288]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.47.13:553][290]MaterialEditorStats: Base pass shader: 220 instructions
+[2024.01.27-14.47.13:553][290]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.47.13:553][290]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.47.13:553][290]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.13:553][290]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.47.18:682][904]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.47.18:682][904]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.18:682][904]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.47.18:697][906]MaterialEditorStats: Base pass shader: 220 instructions
+[2024.01.27-14.47.18:697][906]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.47.18:697][906]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.47.18:697][906]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.18:697][906]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.47.26:356][452]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.47.26:356][452]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.26:356][452]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.47.27:076][538]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.47.27:076][538]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.47.27:076][538]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.27:076][538]MaterialEditorStats: Shader Count: 3
+[2024.01.27-14.47.27:797][609]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.47.27:797][609]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.27:797][609]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.47.28:346][673]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.47.28:346][673]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.47.28:346][673]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.28:346][673]MaterialEditorStats: Shader Count: 3
+[2024.01.27-14.47.28:446][685]MaterialEditorStats: Base pass shader: 225 instructions
+[2024.01.27-14.47.28:446][685]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.47.28:446][685]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.47.28:446][685]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.28:446][685]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.47.29:721][836]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.47.29:721][836]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.29:721][836]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.47.29:764][838]MaterialEditorStats: Base pass shader: 225 instructions
+[2024.01.27-14.47.29:764][838]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.47.29:764][838]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.47.29:764][838]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.29:764][838]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.47.32:141][120]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.47.32:141][120]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.32:141][120]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.47.32:156][122]MaterialEditorStats: Base pass shader: 225 instructions
+[2024.01.27-14.47.32:156][122]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.47.32:156][122]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.47.32:156][122]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.32:156][122]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.47.34:660][421]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.47.34:660][421]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.34:660][421]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.47.34:675][423]MaterialEditorStats: Base pass shader: 225 instructions
+[2024.01.27-14.47.34:675][423]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.47.34:675][423]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.47.34:675][423]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.34:675][423]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.47.36:821][680]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.47.36:821][680]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.36:821][680]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.47.36:837][682]MaterialEditorStats: Base pass shader: 225 instructions
+[2024.01.27-14.47.36:837][682]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.47.36:837][682]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.47.36:837][682]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.36:837][682]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.47.38:325][860]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.47.38:325][860]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.38:325][860]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.47.38:341][862]MaterialEditorStats: Base pass shader: 225 instructions
+[2024.01.27-14.47.38:341][862]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.47.38:341][862]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.47.38:341][862]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.38:341][862]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.47.43:581][488]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.47.43:581][488]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.43:581][488]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.47.43:596][490]MaterialEditorStats: Base pass shader: 225 instructions
+[2024.01.27-14.47.43:596][490]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.47.43:596][490]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.47.43:596][490]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.43:596][490]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.47.48:167][ 36]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.47.48:167][ 36]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.48:167][ 36]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.47.48:183][ 38]MaterialEditorStats: Base pass shader: 225 instructions
+[2024.01.27-14.47.48:183][ 38]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.47.48:183][ 38]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.47.48:183][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.48:183][ 38]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.47.49:089][146]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.47.49:089][146]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.49:089][146]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.47.49:106][148]MaterialEditorStats: Base pass shader: 225 instructions
+[2024.01.27-14.47.49:106][148]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.47.49:106][148]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.47.49:106][148]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.49:106][148]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.47.52:699][577]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.47.52:699][577]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.52:699][577]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.47.52:714][579]MaterialEditorStats: Base pass shader: 225 instructions
+[2024.01.27-14.47.52:714][579]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.47.52:714][579]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.47.52:714][579]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.52:714][579]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.47.55:043][858]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.47.55:043][858]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.55:043][858]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.47.55:059][860]MaterialEditorStats: Base pass shader: 225 instructions
+[2024.01.27-14.47.55:059][860]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.47.55:059][860]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.47.55:059][860]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.47.55:059][860]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.49.12:836][230]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.49.12:836][230]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.49.12:836][230]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.49.12:850][232]MaterialEditorStats: Base pass shader: 225 instructions
+[2024.01.27-14.49.12:850][232]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.49.12:850][232]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.49.12:850][232]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.49.12:851][232]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.49.23:468][495]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.49.23:468][495]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.49.23:468][495]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.49.23:494][497]MaterialEditorStats: Base pass shader: 225 instructions
+[2024.01.27-14.49.23:494][497]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.49.23:495][497]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.49.23:495][497]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.49.23:495][497]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.49.31:759][967]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.49.31:759][967]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.49.31:759][967]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.49.31:790][969]MaterialEditorStats: Base pass shader: 225 instructions
+[2024.01.27-14.49.31:790][969]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.49.31:790][969]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.49.31:790][969]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.49.31:790][969]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.50.13:297][811]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShading: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node If) Missing If A input
+
+[2024.01.27-14.50.13:302][811]MaterialEditorStats: Error: [SM6] (Node If) Missing If A input
+[2024.01.27-14.50.14:517][949]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShading: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node If) Missing If A input
+	(Node If) Failed to compile ALessThanB input.
+
+[2024.01.27-14.50.14:521][949]MaterialEditorStats: Error: [SM6] (Node If) Missing If A input
+[2024.01.27-14.50.14:521][949]MaterialEditorStats: Error: [SM6] (Node If) Failed to compile ALessThanB input.
+[2024.01.27-14.50.16:046][129]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.50.16:046][129]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.50.16:046][129]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: ================================================
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: Total job queries 5,352, among them cache hits 4,083 (76.29%)
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: Tracking 1,263 distinct input hashes that result in 594 distinct outputs (47.03%)
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: RAM used: 26.66 MiB of 1.60 GiB budget. Usage: 1.63%
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: Shaders Compiled: 1,245
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: Jobs assigned 1,247, completed 1,245 (99.84%)
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: Average time worker was idle: 88.00 s
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: Time job spent in pending queue: average 2.26 s, longest 14.20 s
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: Job execution time: average 1.20 s, max 6.98 s
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: Job life time (pending + execution): average 3.46 s, max 14.94
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 144.26 s
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: Jobs were issued in 1,089 batches (only local compilation was used), average 1.15 jobs/batch
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: Average processing rate: 8.63 jobs/sec
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: Total thread time: 605.271 s
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: Total thread preprocess time: 19.402 s
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: Percentage time preprocessing: 3.21%
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: Effective parallelization: 4.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   13 times, average 0.69 sec, max 1.40 sec, min 0.61 sec)
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   16 times, average 0.68 sec, max 1.26 sec, min 0.59 sec)
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled   13 times, average 0.68 sec, max 1.37 sec, min 0.58 sec)
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.92% of total time (compiled  139 times, average 0.56 sec, max 1.19 sec, min 0.43 sec)
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.93% of total time (compiled  139 times, average 0.52 sec, max 0.75 sec, min 0.41 sec)
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.51% of total time (compiled   59 times, average 0.57 sec, max 1.02 sec, min 0.30 sec)
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.55% of total time (compiled   58 times, average 0.48 sec, max 0.59 sec, min 0.32 sec)
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.38% of total time (compiled   41 times, average 0.65 sec, max 1.17 sec, min 0.49 sec)
+[2024.01.27-14.50.16:568][185]LogShaderCompilers: Display: ================================================
+[2024.01.27-14.50.16:676][198]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.50.16:676][198]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.50.16:676][198]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.50.16:676][198]MaterialEditorStats: Shader Count: 3
+[2024.01.27-14.50.16:776][210]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.01.27-14.50.16:776][210]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.50.16:776][210]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.50.16:776][210]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.50.16:776][210]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.50.22:496][479]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.50.22:496][479]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.50.22:496][479]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.50.22:524][481]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.01.27-14.50.22:524][481]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.50.22:524][481]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.50.22:524][481]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.50.22:524][481]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.50.28:622][767]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.50.28:622][767]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.50.28:622][767]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.50.28:671][769]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.01.27-14.50.28:671][769]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.50.28:671][769]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.50.28:671][769]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.50.28:671][769]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.50.46:794][ 89]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.50.46:794][ 89]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.50.46:794][ 89]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.50.46:818][ 91]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.01.27-14.50.46:818][ 91]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.50.46:818][ 91]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.50.46:818][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.50.46:818][ 91]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.50.51:461][440]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.50.51:462][440]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.50.51:462][440]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.50.51:482][442]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.01.27-14.50.51:482][442]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.50.51:482][442]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.50.51:482][442]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.50.51:482][442]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.51.10:912][737]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.51.10:912][737]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.10:912][737]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.51.10:944][739]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.01.27-14.51.10:944][739]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.51.10:944][739]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.51.10:944][739]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.10:944][739]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.51.14:379][136]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.51.14:379][136]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.14:379][136]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.51.14:413][138]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.01.27-14.51.14:413][138]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.51.14:413][138]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.51.14:413][138]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.14:413][138]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.51.16:846][420]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.51.16:846][420]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.16:846][420]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.51.16:877][422]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.01.27-14.51.16:877][422]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.51.16:877][422]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.51.16:877][422]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.16:877][422]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.51.18:001][543]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.51.18:001][543]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.18:001][543]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.51.18:034][545]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.01.27-14.51.18:034][545]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.51.18:034][545]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.51.18:034][545]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.18:034][545]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.51.18:905][639]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.51.18:905][639]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.18:905][639]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.51.18:926][641]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.01.27-14.51.18:926][641]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.51.18:926][641]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.51.18:926][641]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.18:926][641]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.51.19:997][760]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.51.19:997][760]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.19:997][760]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.51.20:019][762]MaterialEditorStats: Base pass shader: 214 instructions
+[2024.01.27-14.51.20:019][762]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.51.20:019][762]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.51.20:019][762]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.20:019][762]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.51.22:956][ 85]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.51.22:956][ 85]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.22:956][ 85]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.51.23:686][171]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.51.23:686][171]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.51.23:686][171]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.23:686][171]MaterialEditorStats: Shader Count: 3
+[2024.01.27-14.51.23:786][183]MaterialEditorStats: Base pass shader: 230 instructions
+[2024.01.27-14.51.23:786][183]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.51.23:786][183]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.51.23:786][183]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.23:786][183]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.51.25:567][392]LogMaterialEditor: Saving and Compiling material M_CelShading
+[2024.01.27-14.51.25:628][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.27-14.51.26:254][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.27-14.51.26:261][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.51.27:811][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/CelShading/M_CelShading" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_CelShading.uasset" SILENT=true
+[2024.01.27-14.51.27:813][392]LogSavePackage: Moving output files for package: /Game/Materials/CelShading/M_CelShading
+[2024.01.27-14.51.27:814][392]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_CelShadingA2455E044E4CE01B8638A48837EBAFAB.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_CelShading.uasset'
+[2024.01.27-14.51.27:819][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.55 sec (total: 1:05 min)
+[2024.01.27-14.51.27:824][392]AssetCheck: New page: Asset Save: M_CelShading
+[2024.01.27-14.51.27:824][392]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/CelShading/M_CelShading.M_CelShading
+[2024.01.27-14.51.27:825][392]MaterialEditorStats: Base pass shader: 230 instructions
+[2024.01.27-14.51.27:825][392]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.51.27:825][392]MaterialEditorStats: MaxSampler: 273 instructions
+[2024.01.27-14.51.27:825][392]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.27-14.51.27:825][392]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.27:825][392]MaterialEditorStats: Shader Count: 16
+[2024.01.27-14.51.33:839][ 76]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.51.33:839][ 76]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.33:839][ 76]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.51.34:312][132]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.51.34:312][132]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.51.34:312][132]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.34:312][132]MaterialEditorStats: Shader Count: 3
+[2024.01.27-14.51.34:412][144]MaterialEditorStats: Base pass shader: 230 instructions
+[2024.01.27-14.51.34:412][144]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.51.34:412][144]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.51.34:412][144]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.51.34:412][144]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.51.36:387][376]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShading: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node If) Missing If AGreaterThanB input
+
+[2024.01.27-14.51.37:137][449]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.51.37:137][449]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.51.37:137][449]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.51.37:137][449]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.51.37:616][505]MaterialEditorStats: Texture samplers: 1/16
+[2024.01.27-14.51.37:617][505]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.51.37:617][505]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.51.37:617][505]MaterialEditorStats: Shader Count: 1
+[2024.01.27-14.51.37:716][517]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.01.27-14.51.37:716][517]MaterialEditorStats: Texture samplers: 1/16
+[2024.01.27-14.51.37:716][517]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.51.37:717][517]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.51.37:717][517]MaterialEditorStats: Shader Count: 3
+[2024.01.27-14.51.37:817][529]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.01.27-14.51.37:817][529]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.01.27-14.51.37:817][529]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.27-14.51.37:817][529]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.51.37:817][529]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.51.37:817][529]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.51.38:692][631]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.51.38:692][631]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.51.38:692][631]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.51.38:692][631]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.51.38:732][633]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.01.27-14.51.38:732][633]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.01.27-14.51.38:732][633]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.27-14.51.38:732][633]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.51.38:732][633]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.51.38:732][633]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.51.46:190][505]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.51.46:190][505]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.51.46:190][505]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.51.46:190][505]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.51.46:252][507]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.01.27-14.51.46:252][507]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.01.27-14.51.46:252][507]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.27-14.51.46:252][507]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.51.46:252][507]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.51.46:252][507]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.51.51:163][ 92]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.51.51:163][ 92]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.51.51:163][ 92]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.51.51:163][ 92]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.51.51:196][ 94]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.01.27-14.51.51:196][ 94]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.01.27-14.51.51:196][ 94]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.27-14.51.51:196][ 94]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.51.51:196][ 94]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.51.51:196][ 94]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.51.55:499][605]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.51.55:499][605]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.51.55:499][605]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.51.55:499][605]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.51.55:543][607]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.01.27-14.51.55:543][607]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.01.27-14.51.55:543][607]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.27-14.51.55:544][607]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.51.55:544][607]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.51.55:544][607]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.52.16:075][ 62]LogMaterialEditor: Saving and Compiling material M_CelShading
+[2024.01.27-14.52.16:135][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.01.27-14.52.16:883][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.27-14.52.16:892][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.52.18:445][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/CelShading/M_CelShading" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_CelShading.uasset" SILENT=true
+[2024.01.27-14.52.18:447][ 62]LogSavePackage: Moving output files for package: /Game/Materials/CelShading/M_CelShading
+[2024.01.27-14.52.18:448][ 62]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_CelShading64986CB749864705731E5FA3A7CE4B53.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_CelShading.uasset'
+[2024.01.27-14.52.18:453][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.56 sec (total: 1:07 min)
+[2024.01.27-14.52.18:457][ 62]AssetCheck: New page: Asset Save: M_CelShading
+[2024.01.27-14.52.18:457][ 62]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/CelShading/M_CelShading.M_CelShading
+[2024.01.27-14.52.18:458][ 62]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.01.27-14.52.18:458][ 62]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.01.27-14.52.18:458][ 62]MaterialEditorStats: MaxSampler: 277 instructions
+[2024.01.27-14.52.18:458][ 62]MaterialEditorStats: Texture samplers: 6/16
+[2024.01.27-14.52.18:458][ 62]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.52.18:458][ 62]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.52.18:458][ 62]MaterialEditorStats: Shader Count: 16
+[2024.01.27-14.52.25:087][805]LogContentBrowser: Deferred new asset file creation: M_CelShading_Inst
+[2024.01.27-14.52.25:100][805]LogContentBrowser: Creating deferred item: M_CelShading_Inst
+[2024.01.27-14.52.25:108][806]LogContentBrowser: Renaming the item being created (Deferred Item: M_CelShading_Inst).
+[2024.01.27-14.52.25:711][876]LogContentBrowser: Attempting asset rename: M_CelShading_Inst -> M_CelShading_Inst
+[2024.01.27-14.52.25:712][876]LogContentBrowser: End creating deferred item M_CelShading_Inst
+[2024.01.27-14.52.26:208][935]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/CelShading/M_CelShading_Inst.M_CelShading_Inst
+[2024.01.27-14.52.26:210][935]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-14.52.26:210][935]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-14.52.26:304][935]LogViewport: Scene viewport resized to 839x921, mode Windowed.
+[2024.01.27-14.52.26:344][936]LogViewport: Scene viewport resized to 839x906, mode Windowed.
+[2024.01.27-14.52.26:399][937]LogViewport: Scene viewport resized to 839x902, mode Windowed.
+[2024.01.27-14.52.38:600][393]LogMaterialEditor: Saving and Compiling material M_CelShading
+[2024.01.27-14.52.38:602][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.52.38:657][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/CelShading/M_CelShading" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_CelShading.uasset" SILENT=true
+[2024.01.27-14.52.38:659][393]LogSavePackage: Moving output files for package: /Game/Materials/CelShading/M_CelShading
+[2024.01.27-14.52.38:660][393]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_CelShading85B59D1F4827BC48F692468FDD7CDC8D.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_CelShading.uasset'
+[2024.01.27-14.52.38:665][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 1:07 min)
+[2024.01.27-14.52.38:669][393]AssetCheck: New page: Asset Save: M_CelShading
+[2024.01.27-14.52.38:669][393]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/CelShading/M_CelShading.M_CelShading
+[2024.01.27-14.52.50:845][586]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.52.50:845][586]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.52.50:845][586]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.52.50:845][586]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.52.50:894][588]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.01.27-14.52.50:894][588]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.01.27-14.52.50:894][588]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.27-14.52.50:894][588]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.52.50:894][588]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.52.50:894][588]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.52.56:669][263]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.52.56:669][263]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.52.56:669][263]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.52.56:669][263]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.52.56:695][265]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.01.27-14.52.56:695][265]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.01.27-14.52.56:695][265]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.27-14.52.56:695][265]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.52.56:695][265]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.52.56:695][265]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.52.57:198][323]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-14.52.57:205][323]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.52.57:205][323]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.52.57:205][323]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.52.57:205][323]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.52.57:227][325]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.01.27-14.52.57:227][325]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.01.27-14.52.57:227][325]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.27-14.52.57:227][325]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.52.57:227][325]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.52.57:227][325]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.53.02:331][921]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.53.02:331][921]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.53.02:331][921]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.53.02:331][921]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.53.02:901][981]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.01.27-14.53.02:901][981]MaterialEditorStats: Texture samplers: 1/16
+[2024.01.27-14.53.02:901][981]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.53.02:901][981]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.53.02:901][981]MaterialEditorStats: Shader Count: 2
+[2024.01.27-14.53.03:009][994]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.01.27-14.53.03:009][994]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.01.27-14.53.03:009][994]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.27-14.53.03:009][994]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.53.03:009][994]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.53.03:009][994]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.53.12:870][174]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShading: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node If) Missing If AGreaterThanB input
+
+[2024.01.27-14.53.13:784][273]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShading: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node StaticSwitchParameter) Missing B input
+	(Node If) Failed to compile AGreaterThanB input.
+
+[2024.01.27-14.53.13:787][273]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShading: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node StaticSwitchParameter) Missing B input
+	(Node If) Failed to compile AGreaterThanB input.
+	(Node If) Failed to compile AGreaterThanB input.
+
+[2024.01.27-14.53.13:792][273]MaterialEditorStats: Error: [SM6] (Node StaticSwitchParameter) Missing A input
+[2024.01.27-14.53.13:792][273]MaterialEditorStats: Error: [SM6] (Node StaticSwitchParameter) Missing B input
+[2024.01.27-14.53.13:792][273]MaterialEditorStats: Error: [SM6] (Node If) Failed to compile AGreaterThanB input.
+[2024.01.27-14.53.13:792][273]MaterialEditorStats: Error: [SM6] (Node If) Failed to compile AGreaterThanB input.
+[2024.01.27-14.53.17:438][695]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_CelShading: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node If) Failed to compile AGreaterThanB input.
+	(Node If) Failed to compile AGreaterThanB input.
+
+[2024.01.27-14.53.17:443][695]MaterialEditorStats: Error: [SM6] (Node StaticSwitchParameter) Missing A input
+[2024.01.27-14.53.17:443][695]MaterialEditorStats: Error: [SM6] (Node If) Failed to compile AGreaterThanB input.
+[2024.01.27-14.53.17:443][695]MaterialEditorStats: Error: [SM6] (Node If) Failed to compile AGreaterThanB input.
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: ================================================
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: Total job queries 5,522, among them cache hits 4,199 (76.04%)
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: Tracking 1,319 distinct input hashes that result in 616 distinct outputs (46.70%)
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: RAM used: 27.87 MiB of 1.60 GiB budget. Usage: 1.70%
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: Shaders Compiled: 1,301
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: Jobs assigned 1,301, completed 1,301 (100.00%)
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: Average time worker was idle: 86.07 s
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: Time job spent in pending queue: average 2.17 s, longest 14.20 s
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: Job execution time: average 1.17 s, max 6.98 s
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: Job life time (pending + execution): average 3.35 s, max 14.94
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 152.45 s
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: Jobs were issued in 1,143 batches (only local compilation was used), average 1.14 jobs/batch
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: Average processing rate: 8.53 jobs/sec
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: Total thread time: 632.166 s
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: Total thread preprocess time: 20.373 s
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: Percentage time preprocessing: 3.22%
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: Effective parallelization: 4.15 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   13 times, average 0.69 sec, max 1.40 sec, min 0.61 sec)
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled   13 times, average 0.68 sec, max 1.37 sec, min 0.58 sec)
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   13 times, average 0.68 sec, max 1.38 sec, min 0.58 sec)
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.22% of total time (compiled  149 times, average 0.56 sec, max 1.19 sec, min 0.43 sec)
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.14% of total time (compiled  149 times, average 0.52 sec, max 0.75 sec, min 0.41 sec)
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.39% of total time (compiled   61 times, average 0.56 sec, max 1.02 sec, min 0.30 sec)
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.53% of total time (compiled   66 times, average 0.43 sec, max 0.58 sec, min 0.36 sec)
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.47% of total time (compiled   60 times, average 0.47 sec, max 0.59 sec, min 0.32 sec)
+[2024.01.27-14.53.17:466][697]LogShaderCompilers: Display: ================================================
+[2024.01.27-14.53.18:816][840]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.53.18:816][840]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.53.18:816][840]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.53.18:816][840]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.53.19:350][901]MaterialEditorStats: Texture samplers: 1/16
+[2024.01.27-14.53.19:350][901]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.53.19:350][901]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.53.19:350][901]MaterialEditorStats: Shader Count: 1
+[2024.01.27-14.53.19:459][914]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.01.27-14.53.19:459][914]MaterialEditorStats: Texture samplers: 1/16
+[2024.01.27-14.53.19:459][914]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.53.19:459][914]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.53.19:459][914]MaterialEditorStats: Shader Count: 3
+[2024.01.27-14.53.19:560][926]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.01.27-14.53.19:560][926]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.01.27-14.53.19:560][926]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.27-14.53.19:560][926]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.53.19:560][926]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.53.19:560][926]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.53.24:638][530]LogMaterialEditor: Saving and Compiling material M_CelShading
+[2024.01.27-14.53.24:759][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.27-14.53.25:442][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.27-14.53.25:450][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.53.26:584][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/CelShading/M_CelShading" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_CelShading.uasset" SILENT=true
+[2024.01.27-14.53.26:586][530]LogSavePackage: Moving output files for package: /Game/Materials/CelShading/M_CelShading
+[2024.01.27-14.53.26:587][530]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_CelShadingF88186754C455CD4A398C18BC58E3321.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_CelShading.uasset'
+[2024.01.27-14.53.26:593][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.14 sec (total: 1:08 min)
+[2024.01.27-14.53.26:599][530]AssetCheck: New page: Asset Save: M_CelShading
+[2024.01.27-14.53.26:599][530]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/CelShading/M_CelShading.M_CelShading
+[2024.01.27-14.53.26:601][530]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.01.27-14.53.26:601][530]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.01.27-14.53.26:601][530]MaterialEditorStats: MaxSampler: 277 instructions
+[2024.01.27-14.53.26:601][530]MaterialEditorStats: Texture samplers: 6/16
+[2024.01.27-14.53.26:601][530]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-14.53.26:601][530]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-14.53.26:601][530]MaterialEditorStats: Shader Count: 16
+[2024.01.27-14.53.32:192][181]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.53.32:263][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.01.27-14.53.32:779][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.01.27-14.53.32:783][181]LogSavePackage: Moving output files for package: /Game/Materials/CelShading/M_CelShading_Inst
+[2024.01.27-14.53.32:783][181]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_CelShading_Inst94368D254E99074FB29640BD59D1C9A5.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_CelShading_Inst.uasset'
+[2024.01.27-14.53.32:789][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 597 ms (total: 1:09 min)
+[2024.01.27-14.53.32:792][181]AssetCheck: New page: Asset Save: M_CelShading_Inst
+[2024.01.27-14.53.32:792][181]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/CelShading/M_CelShading_Inst.M_CelShading_Inst
+[2024.01.27-14.54.07:524][394]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.54.07:599][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.27-14.54.07:609][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.01.27-14.54.07:611][394]LogSavePackage: Moving output files for package: /Game/Materials/CelShading/M_CelShading_Inst
+[2024.01.27-14.54.07:611][394]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_CelShading_Inst8B186AA5472244D95AA15EA1BB9F1864.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_CelShading_Inst.uasset'
+[2024.01.27-14.54.07:618][394]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 1:09 min)
+[2024.01.27-14.54.07:621][394]AssetCheck: New page: Asset Save: M_CelShading_Inst
+[2024.01.27-14.54.07:621][394]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/CelShading/M_CelShading_Inst.M_CelShading_Inst
+[2024.01.27-14.54.33:602][712]Cmd: TRANSACTION UNDO
+[2024.01.27-14.54.33:602][712]LogEditorTransaction: Undo Rotate Atmosphere Light 0
+[2024.01.27-14.54.43:810][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.01.27-14.54.43:822][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.27-14.54.44:731][666]LogSlate: Window 'Save Content' being destroyed
+[2024.01.27-14.54.44:738][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.54.44:796][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.27-14.54.44:831][666]LogSavePackage: Moving output files for package: /Game/Maps/NominativeTestsMaps/LV_TestsTheo
+[2024.01.27-14.54.44:831][666]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/LV_TestsTheoC054BA084721767D24B8E58EB7CD6B94.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Maps/NominativeTestsMaps/LV_TestsTheo.umap'
+[2024.01.27-14.54.44:837][666]LogFileHelpers: Saving map 'LV_TestsTheo' took 0.050
+[2024.01.27-14.54.44:846][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.27-14.54.44:856][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.27-14.54.44:858][666]LogSavePackage: Moving output files for package: /Game/Materials/CelShading/M_CelShading_Inst
+[2024.01.27-14.54.44:858][666]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_CelShading_Inst6919CE064AF3AD0EC8FC6284493253DD.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_CelShading_Inst.uasset'
+[2024.01.27-14.54.44:865][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 1:09 min)
+[2024.01.27-14.54.44:868][666]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.27-14.54.44:868][666]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NominativeTestsMaps/LV_TestsTheo.LV_TestsTheo
+[2024.01.27-14.54.44:868][666]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/CelShading/M_CelShading_Inst.M_CelShading_Inst
+[2024.01.27-14.55.05:858][749]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.55.05:858][749]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.55.05:858][749]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.55.06:549][830]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.55.06:549][830]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.55.06:549][830]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.55.06:549][830]MaterialEditorStats: Shader Count: 3
+[2024.01.27-14.55.06:650][842]MaterialEditorStats: Base pass shader: 231 instructions
+[2024.01.27-14.55.06:650][842]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.55.06:650][842]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.55.06:650][842]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.55.06:650][842]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.55.07:189][898]LogMaterialEditor: Saving and Compiling material M_CelShading
+[2024.01.27-14.55.07:310][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.27-14.55.07:483][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.01.27-14.55.07:490][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.55.08:629][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/CelShading/M_CelShading" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_CelShading.uasset" SILENT=true
+[2024.01.27-14.55.08:632][898]LogSavePackage: Moving output files for package: /Game/Materials/CelShading/M_CelShading
+[2024.01.27-14.55.08:632][898]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_CelShading034A839E46B2559A2A8EDCB2B0CCF45E.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_CelShading.uasset'
+[2024.01.27-14.55.08:637][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.14 sec (total: 1:10 min)
+[2024.01.27-14.55.08:644][898]AssetCheck: New page: Asset Save: M_CelShading
+[2024.01.27-14.55.08:644][898]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/CelShading/M_CelShading.M_CelShading
+[2024.01.27-14.55.08:646][898]MaterialEditorStats: Base pass shader: 231 instructions
+[2024.01.27-14.55.08:646][898]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.55.08:646][898]MaterialEditorStats: MaxSampler: 274 instructions
+[2024.01.27-14.55.08:646][898]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.27-14.55.08:646][898]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.55.08:646][898]MaterialEditorStats: Shader Count: 16
+[2024.01.27-14.55.13:995][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.27-14.55.31:899][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.55.31:977][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.01.27-14.55.31:988][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.27-14.55.31:990][605]LogSavePackage: Moving output files for package: /Game/Materials/CelShading/M_CelShading_Inst
+[2024.01.27-14.55.31:991][605]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_CelShading_InstAA1530894F095D3D1F1DA2BE723D64DF.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_CelShading_Inst.uasset'
+[2024.01.27-14.55.31:997][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 1:10 min)
+[2024.01.27-14.55.32:000][605]AssetCheck: New page: Asset Save: M_CelShading_Inst
+[2024.01.27-14.55.32:000][605]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/CelShading/M_CelShading_Inst.M_CelShading_Inst
+[2024.01.27-14.55.36:161][954]LogSlate: Window 'Message' being destroyed
+[2024.01.27-14.55.36:166][954]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/LandscapeGrassType/M_landscape.M_landscape
+(Selecting 'No' will cause all changes to be lost!)
+[2024.01.27-14.55.36:241][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.27-14.55.36:433][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.27-14.55.36:460][954]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.55.36:460][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.55.36:476][954]LogViewport: Scene viewport resized to 839x945, mode Windowed.
+[2024.01.27-14.55.36:562][955]LogViewport: Scene viewport resized to 839x923, mode Windowed.
+[2024.01.27-14.55.36:631][956]LogViewport: Scene viewport resized to 839x904, mode Windowed.
+[2024.01.27-14.55.36:697][957]LogViewport: Scene viewport resized to 839x902, mode Windowed.
+[2024.01.27-14.55.42:449][605]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-14.55.42:449][605]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.55.42:449][605]MaterialEditorStats: Shader Count: 0
+[2024.01.27-14.55.42:495][607]MaterialEditorStats: Base pass shader: 231 instructions
+[2024.01.27-14.55.42:495][607]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.55.42:495][607]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.27-14.55.42:495][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.55.42:495][607]MaterialEditorStats: Shader Count: 4
+[2024.01.27-14.55.50:969][618]LogMaterialEditor: Saving and Compiling material M_CelShading
+[2024.01.27-14.55.51:088][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.01.27-14.55.51:253][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.01.27-14.55.51:260][618]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.55.51:354][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/CelShading/M_CelShading" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_CelShading.uasset" SILENT=true
+[2024.01.27-14.55.51:356][618]LogSavePackage: Moving output files for package: /Game/Materials/CelShading/M_CelShading
+[2024.01.27-14.55.51:356][618]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_CelShading326D50BD4747B715D8F7E19DF9D354D5.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_CelShading.uasset'
+[2024.01.27-14.55.51:366][618]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 1:10 min)
+[2024.01.27-14.55.51:372][618]AssetCheck: New page: Asset Save: M_CelShading
+[2024.01.27-14.55.51:372][618]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/CelShading/M_CelShading.M_CelShading
+[2024.01.27-14.55.51:374][618]MaterialEditorStats: Base pass shader: 231 instructions
+[2024.01.27-14.55.51:374][618]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.01.27-14.55.51:374][618]MaterialEditorStats: MaxSampler: 274 instructions
+[2024.01.27-14.55.51:374][618]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.27-14.55.51:374][618]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-14.55.51:374][618]MaterialEditorStats: Shader Count: 16
+[2024.01.27-14.55.57:905][316]LogContentBrowser: Deferred new asset file creation: M_CelShading_Inst1
+[2024.01.27-14.55.57:915][316]LogContentBrowser: Creating deferred item: M_CelShading_Inst1
+[2024.01.27-14.55.57:922][317]LogContentBrowser: Renaming the item being created (Deferred Item: M_CelShading_Inst1).
+[2024.01.27-14.56.05:609][ 93]LogContentBrowser: Attempting asset rename: M_CelShading_Inst1 -> M_Player1
+[2024.01.27-14.56.05:612][ 93]LogContentBrowser: End creating deferred item M_CelShading_Inst1
+[2024.01.27-14.56.08:245][364]LogContentBrowser: Deferred new asset file creation: M_Player2
+[2024.01.27-14.56.08:265][364]LogContentBrowser: Creating deferred item: M_Player2
+[2024.01.27-14.56.08:273][365]LogContentBrowser: Renaming the item being created (Deferred Item: M_Player2).
+[2024.01.27-14.56.10:087][546]LogContentBrowser: Attempting asset rename: M_Player2 -> M_Player2
+[2024.01.27-14.56.10:088][546]LogContentBrowser: End creating deferred item M_Player2
+[2024.01.27-14.56.10:558][594]LogContentBrowser: Deferred new asset file creation: M_Player3
+[2024.01.27-14.56.10:564][594]LogContentBrowser: Creating deferred item: M_Player3
+[2024.01.27-14.56.10:576][595]LogContentBrowser: Renaming the item being created (Deferred Item: M_Player3).
+[2024.01.27-14.56.11:169][656]LogContentBrowser: Attempting asset rename: M_Player3 -> M_Player3
+[2024.01.27-14.56.11:170][656]LogContentBrowser: End creating deferred item M_Player3
+[2024.01.27-14.56.11:544][694]LogContentBrowser: Deferred new asset file creation: M_Player4
+[2024.01.27-14.56.11:549][694]LogContentBrowser: Creating deferred item: M_Player4
+[2024.01.27-14.56.11:561][695]LogContentBrowser: Renaming the item being created (Deferred Item: M_Player4).
+[2024.01.27-14.56.12:008][741]LogContentBrowser: Attempting asset rename: M_Player4 -> M_Player4
+[2024.01.27-14.56.12:009][741]LogContentBrowser: End creating deferred item M_Player4
+[2024.01.27-14.56.12:416][783]LogContentBrowser: Deferred new asset file creation: M_Player5
+[2024.01.27-14.56.12:421][783]LogContentBrowser: Creating deferred item: M_Player5
+[2024.01.27-14.56.12:450][784]LogContentBrowser: Renaming the item being created (Deferred Item: M_Player5).
+[2024.01.27-14.56.12:822][824]LogContentBrowser: Attempting asset rename: M_Player5 -> M_Player5
+[2024.01.27-14.56.12:822][824]LogContentBrowser: End creating deferred item M_Player5
+[2024.01.27-14.56.13:135][856]LogContentBrowser: Deferred new asset file creation: M_Player6
+[2024.01.27-14.56.13:140][856]LogContentBrowser: Creating deferred item: M_Player6
+[2024.01.27-14.56.13:155][857]LogContentBrowser: Renaming the item being created (Deferred Item: M_Player6).
+[2024.01.27-14.56.13:696][913]LogContentBrowser: Attempting asset rename: M_Player6 -> M_Player6
+[2024.01.27-14.56.13:697][913]LogContentBrowser: End creating deferred item M_Player6
+[2024.01.27-14.56.15:507][ 67]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/CelShading/M_Player1.M_Player1
+[2024.01.27-14.56.15:508][ 67]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-14.56.15:508][ 67]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-14.56.15:606][ 67]LogViewport: Scene viewport resized to 839x918, mode Windowed.
+[2024.01.27-14.56.15:645][ 68]LogViewport: Scene viewport resized to 839x902, mode Windowed.
+[2024.01.27-14.56.20:171][588]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-14.56.21:316][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.56.21:387][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/CelShading/M_Player1" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_Player1.uasset" SILENT=true
+[2024.01.27-14.56.21:396][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.27-14.56.21:407][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.01.27-14.56.21:410][723]LogSavePackage: Moving output files for package: /Game/Materials/CelShading/M_Player1
+[2024.01.27-14.56.21:410][723]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_Player13601117043E1BF446FCC279C0D83CA90.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_Player1.uasset'
+[2024.01.27-14.56.21:417][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 1:11 min)
+[2024.01.27-14.56.21:419][723]AssetCheck: New page: Asset Save: M_Player1
+[2024.01.27-14.56.21:419][723]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/CelShading/M_Player1.M_Player1
+[2024.01.27-14.56.32:907][927]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-14.56.34:150][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.56.34:220][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/CelShading/M_Player1" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_Player1.uasset" SILENT=true
+[2024.01.27-14.56.34:228][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.27-14.56.34:238][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.01.27-14.56.34:240][ 74]LogSavePackage: Moving output files for package: /Game/Materials/CelShading/M_Player1
+[2024.01.27-14.56.34:240][ 74]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_Player17FFD84234BF4C3867E8593BEC0718B34.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_Player1.uasset'
+[2024.01.27-14.56.34:248][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1:11 min)
+[2024.01.27-14.56.34:251][ 74]AssetCheck: New page: Asset Save: M_Player1
+[2024.01.27-14.56.34:251][ 74]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/CelShading/M_Player1.M_Player1
+[2024.01.27-14.56.35:611][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.56.35:680][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.01.27-14.56.35:744][211]LogSavePackage: Moving output files for package: /Game/Maps/NominativeTestsMaps/LV_TestsTheo
+[2024.01.27-14.56.35:744][211]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/LV_TestsTheoB43364E5441DFC26A243638A9680AD07.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Maps/NominativeTestsMaps/LV_TestsTheo.umap'
+[2024.01.27-14.56.35:751][211]LogFileHelpers: Saving map 'LV_TestsTheo' took 0.079
+[2024.01.27-14.56.35:759][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 1:11 min)
+[2024.01.27-14.56.35:762][211]AssetCheck: New page: Asset Save: LV_TestsTheo
+[2024.01.27-14.56.35:762][211]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NominativeTestsMaps/LV_TestsTheo.LV_TestsTheo
+[2024.01.27-14.56.41:129][683]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/CelShading/M_Player2.M_Player2
+[2024.01.27-14.56.41:131][683]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-14.56.41:131][683]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-14.56.41:231][683]LogViewport: Scene viewport resized to 839x918, mode Windowed.
+[2024.01.27-14.56.41:271][684]LogViewport: Scene viewport resized to 839x902, mode Windowed.
+[2024.01.27-14.56.49:432][644]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-14.56.50:575][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.56.50:637][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/CelShading/M_Player2" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_Player2.uasset" SILENT=true
+[2024.01.27-14.56.50:644][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.27-14.56.50:654][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.01.27-14.56.50:657][778]LogSavePackage: Moving output files for package: /Game/Materials/CelShading/M_Player2
+[2024.01.27-14.56.50:657][778]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_Player27ABC39B44486470E6549BAA783219399.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_Player2.uasset'
+[2024.01.27-14.56.50:662][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1:11 min)
+[2024.01.27-14.56.50:666][778]AssetCheck: New page: Asset Save: M_Player2
+[2024.01.27-14.56.50:666][778]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/CelShading/M_Player2.M_Player2
+[2024.01.27-14.56.58:179][482]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/CelShading/M_Player3.M_Player3
+[2024.01.27-14.56.58:181][482]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-14.56.58:181][482]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-14.56.58:281][482]LogViewport: Scene viewport resized to 839x917, mode Windowed.
+[2024.01.27-14.56.58:322][483]LogViewport: Scene viewport resized to 839x902, mode Windowed.
+[2024.01.27-14.57.06:207][406]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-14.57.07:201][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.57.07:253][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/CelShading/M_Player3" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_Player3.uasset" SILENT=true
+[2024.01.27-14.57.07:262][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.27-14.57.07:272][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.27-14.57.07:274][524]LogSavePackage: Moving output files for package: /Game/Materials/CelShading/M_Player3
+[2024.01.27-14.57.07:274][524]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_Player379345BD14354AB585C2ACCA01703A15E.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_Player3.uasset'
+[2024.01.27-14.57.07:281][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1:11 min)
+[2024.01.27-14.57.07:284][524]AssetCheck: New page: Asset Save: M_Player3
+[2024.01.27-14.57.07:284][524]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/CelShading/M_Player3.M_Player3
+[2024.01.27-14.57.12:810][ 27]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/CelShading/M_Player4.M_Player4
+[2024.01.27-14.57.12:811][ 27]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-14.57.12:811][ 27]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-14.57.12:916][ 27]LogViewport: Scene viewport resized to 839x916, mode Windowed.
+[2024.01.27-14.57.12:954][ 28]LogViewport: Scene viewport resized to 839x902, mode Windowed.
+[2024.01.27-14.57.19:706][817]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-14.57.20:715][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.57.20:788][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/CelShading/M_Player4" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_Player4.uasset" SILENT=true
+[2024.01.27-14.57.20:797][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.27-14.57.20:807][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.01.27-14.57.20:809][935]LogSavePackage: Moving output files for package: /Game/Materials/CelShading/M_Player4
+[2024.01.27-14.57.20:809][935]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_Player4296240694C2B8057965D9C86FD59D06D.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_Player4.uasset'
+[2024.01.27-14.57.20:816][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1:11 min)
+[2024.01.27-14.57.20:819][935]AssetCheck: New page: Asset Save: M_Player4
+[2024.01.27-14.57.20:819][935]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/CelShading/M_Player4.M_Player4
+[2024.01.27-14.57.28:450][625]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/CelShading/M_Player5.M_Player5
+[2024.01.27-14.57.28:452][625]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-14.57.28:452][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-14.57.28:553][625]LogViewport: Scene viewport resized to 839x917, mode Windowed.
+[2024.01.27-14.57.28:596][626]LogViewport: Scene viewport resized to 839x902, mode Windowed.
+[2024.01.27-14.57.40:223][  1]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-14.57.41:858][176]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.57.41:913][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.27-14.57.41:949][176]LogSavePackage: Moving output files for package: /Game/Maps/NominativeTestsMaps/LV_TestsTheo
+[2024.01.27-14.57.41:949][176]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/LV_TestsTheoCE99E1FD416E9458222DCEB488E6524C.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Maps/NominativeTestsMaps/LV_TestsTheo.umap'
+[2024.01.27-14.57.41:956][176]LogFileHelpers: Saving map 'LV_TestsTheo' took 0.052
+[2024.01.27-14.57.41:964][176]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 1:11 min)
+[2024.01.27-14.57.41:967][176]AssetCheck: New page: Asset Save: LV_TestsTheo
+[2024.01.27-14.57.41:967][176]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NominativeTestsMaps/LV_TestsTheo.LV_TestsTheo
+[2024.01.27-14.57.45:600][520]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/CelShading/M_Player6.M_Player6
+[2024.01.27-14.57.45:601][520]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-14.57.45:601][520]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-14.57.45:705][520]LogViewport: Scene viewport resized to 839x915, mode Windowed.
+[2024.01.27-14.57.45:744][521]LogViewport: Scene viewport resized to 839x902, mode Windowed.
+[2024.01.27-14.57.51:282][167]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.27-14.57.52:316][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.57.52:390][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/CelShading/M_Player6" FILE="../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_Player6.uasset" SILENT=true
+[2024.01.27-14.57.52:398][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.27-14.57.52:408][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.27-14.57.52:410][288]LogSavePackage: Moving output files for package: /Game/Materials/CelShading/M_Player6
+[2024.01.27-14.57.52:410][288]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/M_Player66D7ECD694FA6A87725243D866D3D7718.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Materials/CelShading/M_Player6.uasset'
+[2024.01.27-14.57.52:418][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 1:11 min)
+[2024.01.27-14.57.52:421][288]AssetCheck: New page: Asset Save: M_Player6
+[2024.01.27-14.57.52:421][288]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/CelShading/M_Player6.M_Player6
+[2024.01.27-14.57.56:545][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.57.56:612][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.01.27-14.57.56:648][686]LogSavePackage: Moving output files for package: /Game/Maps/NominativeTestsMaps/LV_TestsTheo
+[2024.01.27-14.57.56:648][686]LogSavePackage: Moving '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Saved/LV_TestsTheoDDF3E40F450DD62C3FAE408711CD21C4.tmp' to '../../../../../GAME 5 Théo Segobia/GGJ24_HungryFishy/HungryFishy/Content/Maps/NominativeTestsMaps/LV_TestsTheo.umap'
+[2024.01.27-14.57.56:655][686]LogFileHelpers: Saving map 'LV_TestsTheo' took 0.051
+[2024.01.27-14.57.56:661][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 1:11 min)
+[2024.01.27-14.57.56:666][686]AssetCheck: New page: Asset Save: LV_TestsTheo
+[2024.01.27-14.57.56:666][686]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NominativeTestsMaps/LV_TestsTheo.LV_TestsTheo
+[2024.01.27-14.58.10:194][979]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.58.10:194][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.58.10:213][979]LogViewport: Scene viewport resized to 1526x948, mode Windowed.
+[2024.01.27-14.58.10:247][980]LogViewport: Scene viewport resized to 1526x937, mode Windowed.
+[2024.01.27-14.58.10:263][981]LogViewport: Scene viewport resized to 1526x925, mode Windowed.
+[2024.01.27-14.58.10:292][982]LogViewport: Scene viewport resized to 1526x914, mode Windowed.
+[2024.01.27-14.58.10:323][983]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2024.01.27-14.58.11:094][ 61]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.58.11:096][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.58.11:113][ 61]LogViewport: Scene viewport resized to 1526x948, mode Windowed.
+[2024.01.27-14.58.11:146][ 62]LogViewport: Scene viewport resized to 1526x938, mode Windowed.
+[2024.01.27-14.58.11:164][ 63]LogViewport: Scene viewport resized to 1526x926, mode Windowed.
+[2024.01.27-14.58.11:196][ 64]LogViewport: Scene viewport resized to 1526x914, mode Windowed.
+[2024.01.27-14.58.11:224][ 65]LogViewport: Scene viewport resized to 1526x903, mode Windowed.
+[2024.01.27-14.58.11:255][ 66]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2024.01.27-14.58.11:463][ 84]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.58.11:463][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.58.11:479][ 84]LogViewport: Scene viewport resized to 1526x947, mode Windowed.
+[2024.01.27-14.58.11:513][ 85]LogViewport: Scene viewport resized to 1526x937, mode Windowed.
+[2024.01.27-14.58.11:547][ 86]LogViewport: Scene viewport resized to 1526x925, mode Windowed.
+[2024.01.27-14.58.11:560][ 87]LogViewport: Scene viewport resized to 1526x914, mode Windowed.
+[2024.01.27-14.58.11:589][ 88]LogViewport: Scene viewport resized to 1526x903, mode Windowed.
+[2024.01.27-14.58.11:619][ 89]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2024.01.27-14.58.11:832][108]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.58.11:832][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.58.11:847][108]LogViewport: Scene viewport resized to 1526x949, mode Windowed.
+[2024.01.27-14.58.11:879][109]LogViewport: Scene viewport resized to 1526x938, mode Windowed.
+[2024.01.27-14.58.11:913][110]LogViewport: Scene viewport resized to 1526x926, mode Windowed.
+[2024.01.27-14.58.11:927][111]LogViewport: Scene viewport resized to 1526x916, mode Windowed.
+[2024.01.27-14.58.11:955][112]LogViewport: Scene viewport resized to 1526x905, mode Windowed.
+[2024.01.27-14.58.11:986][113]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2024.01.27-14.58.12:165][128]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.58.12:165][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.58.12:179][128]LogViewport: Scene viewport resized to 1526x948, mode Windowed.
+[2024.01.27-14.58.12:212][129]LogViewport: Scene viewport resized to 1526x938, mode Windowed.
+[2024.01.27-14.58.12:230][130]LogViewport: Scene viewport resized to 1526x927, mode Windowed.
+[2024.01.27-14.58.12:255][131]LogViewport: Scene viewport resized to 1526x917, mode Windowed.
+[2024.01.27-14.58.12:284][132]LogViewport: Scene viewport resized to 1526x906, mode Windowed.
+[2024.01.27-14.58.12:312][133]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2024.01.27-14.58.12:528][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.27-14.58.12:596][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.27-14.58.12:608][153]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.58.12:608][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.58.12:617][153]LogViewport: Scene viewport resized to 1526x919, mode Windowed.
+[2024.01.27-14.58.12:645][154]LogViewport: Scene viewport resized to 1526x908, mode Windowed.
+[2024.01.27-14.58.12:679][155]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2024.01.27-14.58.13:035][187]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.58.13:035][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.58.13:046][187]LogViewport: Scene viewport resized to 1526x940, mode Windowed.
+[2024.01.27-14.58.13:070][188]LogViewport: Scene viewport resized to 1526x930, mode Windowed.
+[2024.01.27-14.58.13:100][189]LogViewport: Scene viewport resized to 1526x919, mode Windowed.
+[2024.01.27-14.58.13:127][190]LogViewport: Scene viewport resized to 1526x908, mode Windowed.
+[2024.01.27-14.58.13:150][191]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2024.01.27-14.58.14:161][293]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.58.14:161][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.58.14:180][293]LogViewport: Scene viewport resized to 1526x943, mode Windowed.
+[2024.01.27-14.58.14:213][294]LogViewport: Scene viewport resized to 1526x933, mode Windowed.
+[2024.01.27-14.58.14:235][295]LogViewport: Scene viewport resized to 1526x921, mode Windowed.
+[2024.01.27-14.58.14:264][296]LogViewport: Scene viewport resized to 1526x909, mode Windowed.
+[2024.01.27-14.58.14:295][297]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
